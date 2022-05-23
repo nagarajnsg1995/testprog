@@ -1,2 +1,2 @@
-hello world
+class.hello world
 
